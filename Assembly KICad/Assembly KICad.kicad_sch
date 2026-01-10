@@ -3346,16 +3346,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 104.14) (xy 218.44 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38dd4eed-9469-453b-84bc-d4738887bbfd")
-	)
-	(wire
-		(pts
 			(xy 119.38 139.7) (xy 119.38 144.78)
 		)
 		(stroke
@@ -5146,7 +5136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 43.18 66.04 0)
 			(effects
 				(font
@@ -5922,7 +5912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 128.27 21.59 0)
 			(effects
 				(font
@@ -6259,7 +6249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 212.09 109.22 0)
 			(effects
 				(font
@@ -6347,7 +6337,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal"
 			(at 31.75 34.29 0)
 			(effects
 				(font
@@ -6879,7 +6869,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal"
 			(at 204.47 158.75 0)
 			(effects
 				(font
@@ -6951,7 +6941,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal"
 			(at 88.9 78.74 0)
 			(effects
 				(font
@@ -7327,7 +7317,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 228.6 146.05 0)
 			(effects
 				(font
@@ -10169,7 +10159,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal"
 			(at 91.44 35.56 0)
 			(effects
 				(font
@@ -10224,7 +10214,7 @@
 		(dnp no)
 		(uuid "d1cb5c1c-f9bc-4bb6-b148-3c6945bea4fa")
 		(property "Reference" "R13"
-			(at 48.26 30.48 90)
+			(at 48.26 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10232,7 +10222,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 48.26 31.75 90)
+			(at 48.26 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10509,7 +10499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal"
 			(at 69.85 66.04 0)
 			(effects
 				(font
@@ -11100,7 +11090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 72.39 31.75 0)
 			(effects
 				(font
