@@ -8630,7 +8630,7 @@
 			(uuid "14ddd272-e436-49a8-8ab7-c6cbd33238d1")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/GarablueX/Desktop/Signal-Conditioning-System/additional footprints & 3D models used/3-d-nj6tb-v.stp"
+		(model "C:/Users/GarablueX/Desktop/SCSYSTEM/Signal-Conditioning-System/additional footprints & 3D models used/3-d-nj6tb-v.stp"
 			(offset
 				(xyz 0 -6 0)
 			)
@@ -9003,7 +9003,7 @@
 			(uuid "2c30c327-319f-45ca-bb1d-7583795fc17c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/GarablueX/Desktop/Signal-Conditioning-System/additional footprints & 3D models used/Potentiometer_Bourns_3339P_Vertical.wrl"
+		(model "C:/Users/GarablueX/Desktop/SCSYSTEM/Signal-Conditioning-System/additional footprints & 3D models used/Potentiometer_Bourns_3339P_Vertical.wrl"
 			(offset
 				(xyz 0 5 0)
 			)
@@ -9022,7 +9022,7 @@
 		(descr "Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf")
 		(tags "Potentiometer vertical Bourns 3386P")
 		(property "Reference" "RV3"
-			(at -0.015 8.555 90)
+			(at -0.015 8.555 270)
 			(layer "B.SilkS")
 			(uuid "eb1ba431-1a80-4015-926e-007735951699")
 			(effects
@@ -9034,7 +9034,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at -0.015 -3.475 90)
+			(at -0.015 -3.475 270)
 			(layer "B.Fab")
 			(uuid "77c999b3-3bfc-4b48-bbda-511902813e1a")
 			(effects
@@ -9045,8 +9045,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 0 0 90)
+		(property "Datasheet" ""
+			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a36814e9-43ac-496d-8220-004513dfe2cf")
@@ -9058,8 +9058,8 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Potentiometer"
-			(at 0 0 90)
+		(property "Description" ""
+			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "599198d0-caad-4c73-bbe3-09794ddc12ff")
@@ -9084,7 +9084,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "faa8006c-2f95-481e-aeb8-24874b9532b6")
+			(uuid "354d9e8f-4ca1-4bd1-be40-8e0f4d94afa0")
 		)
 		(fp_line
 			(start -4.89 -2.335)
@@ -9094,7 +9094,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9012f068-f826-47bc-b34b-5784362d237c")
+			(uuid "eb1065aa-5c06-441f-90e3-2e5c078a4e35")
 		)
 		(fp_line
 			(start 4.86 7.415)
@@ -9104,7 +9104,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d66aa8e5-d6aa-4bf1-b335-68f15c7c7afe")
+			(uuid "d8c0e45c-7b4a-4c06-8507-5f6517d8b0ca")
 		)
 		(fp_line
 			(start -4.89 7.415)
@@ -9114,7 +9114,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "cb6ffb30-43eb-4ec1-be78-721636279daa")
+			(uuid "2a85a741-8f24-4a40-84d5-5de55ff18d1f")
 		)
 		(fp_rect
 			(start -5.03 7.56)
@@ -9125,7 +9125,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "9ef1f095-7d41-4382-9b09-8baa45839021")
+			(uuid "107bfd09-fc3a-4723-a85d-1e856abc7bf7")
 		)
 		(fp_line
 			(start 0.304 3.542)
@@ -9135,7 +9135,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "ef78e727-0fc5-4d49-9b2f-3c31037ffd8b")
+			(uuid "62710a83-864c-4f46-8542-04ebf9d78b98")
 		)
 		(fp_line
 			(start 0.112 3.734)
@@ -9145,7 +9145,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "2fa83154-3e68-4dde-a9e0-3525cff54743")
+			(uuid "107a7611-540a-4b5f-855f-5480a5ec1636")
 		)
 		(fp_rect
 			(start -4.78 7.305)
@@ -9156,7 +9156,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "29646bd8-1681-4267-be8e-f710899b8d34")
+			(uuid "3f0c6de8-435f-48cf-b39e-2acd9589680b")
 		)
 		(fp_circle
 			(center -0.89 2.54)
@@ -9167,7 +9167,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "a82382c7-035c-4f4b-927f-9a4e4320bf26")
+			(uuid "51d7e3b0-e59c-4d46-ab65-2f31805e9f4c")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -3.78 2.54 0)
@@ -9215,15 +9215,15 @@
 			(uuid "bfa99fa5-eef3-4ee7-b68c-057e6c127511")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/GarablueX/Desktop/Signal-Conditioning-System/additional footprints & 3D models used/Potentiometer_Bourns_3339P_Vertical.wrl"
+		(model "C:/Users/GarablueX/Desktop/SCSYSTEM/Signal-Conditioning-System/additional footprints & 3D models used/Potentiometer_Bourns_3339P_Vertical.wrl"
 			(offset
-				(xyz 0 5 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -180)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -9581,7 +9581,7 @@
 			(uuid "cf02d056-5996-44f1-9972-c8757f80f885")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/GarablueX/Desktop/Signal-Conditioning-System/additional footprints & 3D models used/3-d-nj6tb-v.stp"
+		(model "C:/Users/GarablueX/Desktop/SCSYSTEM/Signal-Conditioning-System/additional footprints & 3D models used/3-d-nj6tb-v.stp"
 			(offset
 				(xyz 0 -6 0)
 			)
@@ -9793,7 +9793,7 @@
 			(uuid "2fdcc951-d38f-43e9-9ed8-dd48f70513f4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/GarablueX/Desktop/Signal-Conditioning-System/additional footprints & 3D models used/Potentiometer_Bourns_3339P_Vertical.wrl"
+		(model "C:/Users/GarablueX/Desktop/SCSYSTEM/Signal-Conditioning-System/additional footprints & 3D models used/Potentiometer_Bourns_3339P_Vertical.wrl"
 			(offset
 				(xyz 0 5 0)
 			)
@@ -9801,7 +9801,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 180)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -10005,7 +10005,7 @@
 			(uuid "ebd52fce-ef80-461b-a314-688ff96bb9f7")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/GarablueX/Desktop/Signal-Conditioning-System/additional footprints & 3D models used/Potentiometer_Bourns_3339P_Vertical.wrl"
+		(model "C:/Users/GarablueX/Desktop/SCSYSTEM/Signal-Conditioning-System/additional footprints & 3D models used/Potentiometer_Bourns_3339P_Vertical.wrl"
 			(offset
 				(xyz 0 5 0)
 			)
