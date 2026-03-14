@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","AudioIn","Jack_6.35mm_Neutrik_NJ2FD-V_Vertical",124.860000,-80.870000,180.000000,bottom
+"J5","AudioOut","Jack_6.35mm_Neutrik_NJ2FD-V_Vertical",147.950000,-80.870000,180.000000,bottom
+"RV1","100K","Potentiometer_Bourns_3386P_Vertical",82.930000,-70.690000,90.000000,bottom
+"RV2","100K","Potentiometer_Bourns_3386P_Vertical",96.680000,-70.690000,90.000000,bottom
+"RV3","100K","Potentiometer_Bourns_3386P_Vertical",124.180000,-70.690000,90.000000,bottom
+"RV4","100K","Potentiometer_Bourns_3386P_Vertical",110.864762,-70.690000,90.000000,bottom
