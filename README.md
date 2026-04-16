@@ -11,11 +11,26 @@ This project is sponsored by [**PCBWay**](https://www.pcbway.com/), a leading PC
 
 PCBWay is supporting the fabrication of prototype hardware for this system, enabling real-world validation and testing beyond simulation. Their sponsorship demonstrates commitment to supporting engineering education and open-source development.
 
-**Fabrication Status:** PCBs currently in production with PCBWay. Assembly and testing scheduled upon arrival.
+**Fabrication Status:** Finished
 
 **Manufacturing Partner:** [PCBWay - Professional PCB Services](https://www.pcbway.com/)
 
 ---
+### Project Gallery
+
+![PCB  - Front View](PCB-Images/Front1_pcb.jpg)
+*Professional PCB layout - Top view showing component placement and routing*
+
+![PCB - Back View](PCB-Images/Back1_pcb.jpg)
+*Bottom view showing ground plane and trace routing strategy*
+
+![PCB  Assembly Front ](PCB-Images/Front1_Assembly.jpg)
+*Complete assembled system visualization*
+![PCB  Assembly Back ](PCB-Images/Back1_Assembly.jpg)
+*Complete assembled system visualization*
+
+
+*PCBs manufactured by [PCBWay](https://www.pcbway.com/) - Professional quality for precision analog circuits*
 
 ## Overview
 
@@ -139,13 +154,14 @@ The PCB design translates the validated circuit architecture into a manufacturab
 -  Functional simulation and validation
 -  PCB layout and design
 -  Manufacturing file preparation
+-  PCB fabrication
+-  Prototype assembly
+-  
 
 **In Progress:**
--  PCB fabrication (PCBWay)
--  Prototype assembly (scheduled)
 -  Physical testing and validation (scheduled)
 
-Updates will be posted as hardware development progresses.
+Updates will be posted as i move on to the next steps.
 
 ---
 
@@ -162,26 +178,23 @@ This project was developed as part of engineering studies at ISE'TCOM, with inte
 ## Repository Structure
 
 ```
-├── docs/              # Technical documentation
-├── hardware/          # KiCAD PCB design files
-├── gerbers/           # Manufacturing files
-├── simulation/        # Proteus simulation files
-├── bom/               # Bill of materials
-└── images/            # Schematics and renders
+├── PCB-images/              # Technical documentation
+├── Schematics in KiCad/          # KiCAD PCB design files
+├── Schematics(for simulation)/           # Manufacturing files
+├── topologys/        # Proteus simulation files
+├── additional footprints & 3D models used/               # Foot prints and 3D models 
+├── images/            # Schematics and renders
+├── Report.pdf/
 ```
 
 ---
 
-## License
 
-This project is shared for educational and portfolio purposes only.
-
----
 
 ##  Contact & Collaboration
 
 **Project Author:** Saif Abdessayed   
-**Location:** Tunis, Tunisia
+
 
 - **Email:** saif.abdessayed321@gmail.com
 - **GitHub:** [@GarablueX](https://github.com/GarablueX)
@@ -194,9 +207,14 @@ This project is shared for educational and portfolio purposes only.
 
 ---
 
-**Last Updated:** February 2026  
-**Version:** 1.1 - PCB fabrication in progress with PCBWay sponsorship
+**Last Updated:** April 2026  
+**Version:** 1.2 - PCB fabrication Done
 
 ---
+## License
 
-*This project demonstrates the complete engineering development cycle from concept and simulation through PCB design and manufacturing, made possible through industry partnership with PCBWay.*
+This project is shared for educational and portfolio purposes only.
+
+
+
+
