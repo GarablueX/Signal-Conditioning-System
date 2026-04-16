@@ -19,15 +19,15 @@ PCBWay is supporting the fabrication of prototype hardware for this system, enab
 ### Project Gallery
 
 ![PCB  - Front View](PCB-Images/Front1_pcb.jpg)
-*Professional PCB layout - Top view showing component placement and routing*
+
 
 ![PCB - Back View](PCB-Images/Back1_pcb.jpg)
-*Bottom view showing ground plane and trace routing strategy*
+
 
 ![PCB  Assembly Front ](PCB-Images/Front1_Assembly.jpg)
-*Complete assembled system visualization*
+
 ![PCB  Assembly Back ](PCB-Images/Back1_Assembly.jpg)
-*Complete assembled system visualization*
+
 
 
 *PCBs manufactured by [PCBWay](https://www.pcbway.com/) - Professional quality for precision analog circuits*
